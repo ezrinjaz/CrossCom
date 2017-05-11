@@ -10,7 +10,7 @@ body{
 margin:0;
 padding:0;
 background-image: url("/images/abstract-1779607.png");
-background:#00305f;
+background:#fff;
 font-family:"Helvetica Neue",Helvetica, Arial;
 }
 
@@ -61,7 +61,7 @@ right: 0;
 text-align:left;
 top: 25%;
 float: left;
-color: #fff;
+color: #000;
 letter-spacing: -1px;
 font-size: 38px;
 }
@@ -101,7 +101,7 @@ margin-bottom: 20px;
 }
 
 h2 span{
-color: #fff;
+color: #000;
 font-size: 16px;
 line-height: 26px;
 font-style: italic;
@@ -123,7 +123,7 @@ float: left;
 ul.info li p{
 font-size: 13px;
 line-height: 20px;
-color: #fff;
+color: #000;
 float: left;
 margin: 0;
 }
